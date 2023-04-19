@@ -1,0 +1,4 @@
+tours controller for get, post, patch and delete for routes "/" and "/:id" ---- DONE
+User controller ---- DOING
+Better error handling
+implement code for sort, limit and other query params
